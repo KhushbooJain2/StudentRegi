@@ -5,14 +5,14 @@
 body {
 	
 	font-size: 120%;
-	background: grey;
+	background: #7599B3;
 }
 
 .header {
 	width: 30%;
 	margin: 50px auto 0px;
-	color: whitehttps://github.com/Mrvabs/studentreg.git;
-	background: yellow;
+	color: #FFFFFF;
+	background: #39557C;
 	text-align: center;
 	border: 1px solid #B0C4DE;
 	border-bottom: none;
@@ -24,7 +24,7 @@ form, .content {
 	margin: 0px auto;
 	padding: 20px;
 	border: 1px solid #B0C4DE;
-	background: pink;
+	background: #FFFFFF;
 	border-radius: 0px 0px 10px 10px;
 }
 .input-group {
@@ -47,8 +47,8 @@ form, .content {
 .btn {
 	padding: 10px;
 	font-size: 15px;
-	color: white;
-	background:cyan;
+	color: #FFFFFF;
+	background: #39557C;
 	border: none;
 	border-radius: 5px;
 }
