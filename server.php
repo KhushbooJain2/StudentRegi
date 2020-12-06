@@ -1,5 +1,5 @@
 <?php
-$db=mysqli_connect('localhost','khushboo123',"khushboo123","student_details");
+$db=mysqli_connect('localhost','',"","student");
 if(isset($_POST['reg_user']))
 {
 	$roll_number = mysqli_real_escape_string($db, $_POST['roll_number']);
