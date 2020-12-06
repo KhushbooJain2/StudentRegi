@@ -1,5 +1,5 @@
 <?php
-$db=mysqli_connect('','',"","student");
+$db=mysqli_connect('project-hosting-database.cdlz8fvxi9ag.us-east-1.rds.amazonaws.com','admin',"Khushboords","student");
 if(isset($_POST['reg_user']))
 {
 	$roll_number = mysqli_real_escape_string($db, $_POST['roll_number']);
